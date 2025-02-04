@@ -1,3 +1,4 @@
+<img src="https://github.com/Thay2024/thaiane.l/blob/main/Design%20sem%20nome.gif">
 <table>
   <td>
     <img src="https://github-readme-stats.vercel.app/api?username=Thay2024&theme=darkt&show_icons=true">
